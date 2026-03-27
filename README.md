@@ -13,19 +13,24 @@ FireNet Dataset:
 The FireNet dataset is structured to enhance the training and evaluation of fire detection models. It comprises a total of 3,296 images, categorized as follows:
 ​
 Training:
+
 Fire Images: 1,124​
 Non-Fire Images: 1,301
 ​
 Testing:
+
 Fire Images: 593​
 Non-Fire Images: 278
+
 Firenet Dataset URL: https://tinyurl.com/mw5jm5xh
 
 Kaggle Dataset:
+
 Kaggle dataset contains 110 fire images and 541 non-fire images. Partition the Kaggle dataset into training and testing subsets, adhering to an 80-20 split:
 
 Fire Images: 110
 No-fire Images: 541
+
 Kaggle Dataset URL: https://www.kaggle.com/datasets/atulyakumar98/test-dataset
 
 Data Splitting:
