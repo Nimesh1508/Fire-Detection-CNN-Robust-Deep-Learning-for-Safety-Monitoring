@@ -12,6 +12,7 @@ FireNet Dataset:
 
 The FireNet dataset is structured to enhance the training and evaluation of fire detection models. It comprises a total of 3,296 images, categorized as follows:
 ​
+
 Training:
 
 Fire Images: 1,124, 
