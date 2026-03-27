@@ -1,5 +1,5 @@
 Description:
-​
+
 I developed a machine learning model for fire detection by integrating two datasets and evaluating its performance with additional images. 
 
 The process involved several key steps:​
