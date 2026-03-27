@@ -14,13 +14,14 @@ The FireNet dataset is structured to enhance the training and evaluation of fire
 ​
 Training:
 
-Fire Images: 1,124
+Fire Images: 1,124, 
 ​
 Non-Fire Images: 1,301
 ​
+
 Testing:
 
-Fire Images: 593
+Fire Images: 593, 
 ​
 Non-Fire Images: 278
 
